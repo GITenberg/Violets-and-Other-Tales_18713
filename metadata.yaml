@@ -16,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/354
     wikipedia: http://en.wikipedia.org/wiki/Alice_Dunbar-Nelson
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/18713#Violets-and-Other-Tales
 gutenberg_issued: '2006-06-29'
 gutenberg_type: Text
 identifiers:
