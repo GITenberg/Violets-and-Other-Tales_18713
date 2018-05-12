@@ -1,0 +1,34 @@
+_repo: Violets-and-Other-Tales_18713
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Dunbar-Nelson, Alice Moore
+    aliases:
+    - Moore, Alice Ruth
+    - Nelson, Alice Ruth Moore Dunbar
+    - Dunbar, Alice Moore
+    birthdate: 1875
+    deathdate: 1935
+    gutenberg_agent_id: '354'
+    url: http://www.gutenberg.org/2009/agents/354
+    wikipedia: http://en.wikipedia.org/wiki/Alice_Dunbar-Nelson
+description: ''
+gutenberg_issued: '2006-06-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18713'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fiction'
+- !lcsh 'Essays'
+- !lcsh 'Short stories'
+- !lcc 'PS'
+- !lcsh 'Poetry'
+title: Violets and Other Tales
+url: http://www.gutenberg.org/ebooks/18713
